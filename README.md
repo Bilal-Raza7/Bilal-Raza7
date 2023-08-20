@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Bilal</h1>
+<h1 align="center">Hi There 👋, This is Bilal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <img src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif" alt="java" width="400" height="400"/> 
