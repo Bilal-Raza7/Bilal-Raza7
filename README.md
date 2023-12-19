@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <img src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif" alt="java" width="400" height="400"/> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-raza7&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-raza7" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=bilal-raza7&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2Fapi%2F&psig=AOvVaw3pPUoyT1fQHxh2PFFpFH4R&ust=1703055570627000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCQ2MX2moMDFQAAAAAdAAAAABAD)" alt="bilal-raza7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-raza7" alt="bilal-raza7" /></a> </p>
 
