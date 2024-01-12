@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-raza7" alt="bilal-raza7" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Java,Spring Boot,DSA**
+- 💬 Ask me about **Java,Spring Boot,React js, javaScript DSA**
 
 - 📫 How to reach me **bilal.7897.raza@gmail.com**
 
