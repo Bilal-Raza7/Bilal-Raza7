@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, This is Bilal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="center" src="[https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fsoftware-developer-flat-icon%2F&psig=AOvVaw1yeXwr6z9UegOtzeE8dv8E&ust=1705756685704000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjs1oXF6YMDFQAAAAAdAAAAABAD)" alt="java" width="700" height="400" objectFit="contain"/> 
+<img align="center" src="[https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fsoftware-developer-flat-icon%2F&psig=AOvVaw1yeXwr6z9UegOtzeE8dv8E&ust=1705756685704000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjs1oXF6YMDFQAAAAAdAAAAABAD)" alt="java" width="700" height="400"/> 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=bilal-raza7&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2Fapi%2F&psig=AOvVaw3pPUoyT1fQHxh2PFFpFH4R&ust=1703055570627000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCQ2MX2moMDFQAAAAAdAAAAABAD)" alt="bilal-raza7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-raza7" alt="bilal-raza7" /></a> </p>
