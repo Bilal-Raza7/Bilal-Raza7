@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-raza7" alt="bilal-raza7" /></a> </p>
 
-- 🌱 I’m currently Polishing my **React Js** skills
+- 🌱 Currently I'm Polishing my **React Js** skills
 
 - 💬 Ask me about **Java,Spring Boot,React js, javaScript DSA**
 
